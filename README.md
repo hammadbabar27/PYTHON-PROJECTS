@@ -1,34 +1,77 @@
 # 🐍 Python Projects
 
-This repository contains my beginner Python projects created while learning Python programming.
+Welcome to my **Python Projects** repository!
 
-## Projects
+This repository contains beginner-friendly Python projects that I built while learning Python. Each project helped me strengthen my programming fundamentals, problem-solving skills, and coding practices.
+
+---
+
+## 📂 Projects
 
 ### 🎯 Number Guess Game
-A command-line game where the player guesses a randomly generated number.
+A command-line game where the computer randomly selects a number between **1 and 100**, and the player tries to guess it with helpful hints.
 
-**Concepts Used**
+**Key Concepts**
+- Variables
 - Loops
-- Conditions
+- Conditional Statements
 - Exception Handling
 - Random Module
+- User Input Validation
 
 ---
 
 ### 🔐 Password Generator
-A Python application that generates secure random passwords.
+A Python application that generates strong and random passwords based on user preferences.
 
-**Concepts Used**
+**Key Concepts**
 - Functions
+- Strings
 - Random Module
 - User Input
+- Input Validation
 
 ---
 
-## Technologies
+## 🛠️ Technologies Used
 
 - Python 3
+- Git
+- GitHub
 
 ---
 
-More projects will be added as I continue my Python learning journey.
+## 🚀 Learning Journey
+
+This repository documents my Python learning journey.
+
+### Completed
+- Python Basics
+- Control Flow
+- Loops
+- Functions
+- Exception Handling
+- Object-Oriented Programming (OOP)
+- File Handling
+- Git & GitHub
+
+### Next Goals
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Machine Learning Projects
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Hammad**
+
+BS Information Technology  
+Aspiring AI/ML Engineer
+
+---
+
+⭐ More Python projects will be added as I continue my learning journey.
